@@ -1800,7 +1800,7 @@ function renderHotSpot(hs) {
     var z = hsPitchSin * configPitchSin + hsPitchCos * yawCos * configPitchCos;
     if ((hs.yaw <= 90 && hs.yaw > -90 && z <= 0) ||
       ((hs.yaw > 90 || hs.yaw <= -90) && z <= 0)) {
-        hs.div.style.visibility = 'hidden';
+        hs.div.style.visibility = 'visible';
     } else {
         var yawSin = Math.sin((-hs.yaw + config.yaw) * Math.PI / 180),
             hfovTan = Math.tan(config.hfov * Math.PI / 360);
