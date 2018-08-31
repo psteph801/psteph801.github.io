@@ -79,36 +79,7 @@
                     "type": "info",
                     "text": "X 150 Y 150"
                   
-                },
-                 {
-                    "pitch": -25,
-                    "yaw": -25,
-                    "type": "info",
-                    "text": "X -25 Y -25"
-                    
-                },
-                {
-                    "pitch": -50,
-                    "yaw": -50,
-                    "type": "info",
-                    "text": "X -50 Y -50"
-                    
-                },
-                {
-                    "pitch": -100,
-                    "yaw": -100,
-                    "type": "info",
-                    "text": "X -100 Y -100"
-                  
-                }, 
-                {
-                    "pitch": -150,
-                    "yaw": -150,
-                    "type": "info",
-                    "text": "X -150 Y -150"
-                  
                 }
-                
             ]
         }
     }
