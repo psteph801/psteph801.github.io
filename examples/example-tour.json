@@ -47,9 +47,9 @@
             "hotSpots": [
                 {
                     "pitch": 0,
-                    "yaw": -199,
+                    "yaw": -175,
                     "type": "scene",
-                    "text": "1.X0 Y-199",
+                    "text": "1.X0 Y-175",
                     "sceneId": "pondCube"
                 },
                 {
@@ -96,11 +96,64 @@
                 },
                 {
                     "pitch":0,
-                    "yaw": 199,
+                    "yaw": 175,
                     "type": "info",
-                    "text": "9.X0 Y199"
+                    "text": "9.X0 Y175"
+                },{
+                    "pitch": 25,
+                    "yaw": -175,
+                    "type": "scene",
+                    "text": "1.X25 Y-175",
+                    "sceneId": "pondCube"
+                },
+                {
+                    "pitch": 25,
+                    "yaw": -150,
+                    "type": "info",
+                    "text": "2.X25 Y-150"
+                },
+                {
+                    "pitch":25,
+                    "yaw": -100,
+                    "type": "info",
+                    "text": "3.X25 Y-100"
+                },
+                {
+                    "pitch":25,
+                    "yaw": -50,
+                    "type": "info",
+                    "text": "4.X25 Y-50"
+                },
+                {
+                    "pitch":25,
+                    "yaw": 0,
+                    "type": "info",
+                    "text": "5.X25 Y0"
+                },
+                {
+                    "pitch":25,
+                    "yaw": 50,
+                    "type": "info",
+                    "text": "6.X25 Y50"
+                },
+                {
+                    "pitch":25,
+                    "yaw": 100,
+                    "type": "info",
+                    "text": "7.X25 Y100"
+                },
+                {
+                    "pitch":25,
+                    "yaw": 150,
+                    "type": "info",
+                    "text": "8.X25 Y150"
+                },
+                {
+                    "pitch":25,
+                    "yaw": 175,
+                    "type": "info",
+                    "text": "9.X25 Y175"
                 }
-
             ]
         }
     }
