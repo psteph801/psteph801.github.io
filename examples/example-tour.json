@@ -1,6 +1,6 @@
 ﻿{
     "default": {
-        "author": "Matthew Petroff",
+        "author": "Powered By OJOME",
         "firstScene": "pond",
         "sceneFadeDuration": 2000
     },
@@ -49,9 +49,24 @@
                     "pitch": 0,
                     "yaw": 100,
                     "type": "scene",
-                    "text": "Pond (cube)",
-                    "sceneId": "pondCube"
+                    "text": "X 0 Y 100",
+                    "sceneId": "X0Y100"
+                },
+                 {
+                    "pitch": 200,
+                    "yaw": 100,
+                    "type": "scene",
+                    "text": "X 200 Y 100",
+                    "sceneId": "X200Y100"
+                },
+                {
+                    "pitch": 300,
+                    "yaw": 100,
+                    "type": "scene",
+                    "text": "X 300 Y 100",
+                    "sceneId": "X300Y100"
                 }
+                
             ]
         }
     }
