@@ -215,7 +215,7 @@
                     "sceneId": "pondCube"
                 },
                 {
-                    "pitch": 25,
+                    "pitch": -25,
                     "yaw": -150,
                     "type": "info",
                     "text": "2.X-25 Y-150"
