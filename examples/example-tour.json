@@ -81,6 +81,30 @@
                     "yaw": 50,
                     "type": "info",
                     "text": "6.X50 Y50"
+                },
+                {
+                    "pitch":25,
+                    "yaw": 0,
+                    "type": "info",
+                    "text": "7.X25 Y0"
+                },
+                {
+                    "pitch":50,
+                    "yaw": 0,
+                    "type": "info",
+                    "text": "8.X50 Y0"
+                },
+                {
+                    "pitch":-25,
+                    "yaw": 0,
+                    "type": "info",
+                    "text": "9.X-25 Y0"
+                },
+                {
+                    "pitch":0,
+                    "yaw": 300,
+                    "type": "info",
+                    "text": "9.X0 Y300"
                 }
 
             ]
