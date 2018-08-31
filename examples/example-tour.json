@@ -45,40 +45,23 @@
             "title": "Jordan Pond",
             "panorama": "./examplepano.jpg",
             "hotSpots": [
-                {
+                                {
                     "pitch": 0,
                     "yaw": 0,
                     "type": "info",
-                    "text": "X 0 Y 0"
-                    
+                    "text": "X 0 Y 100",
                 },
                  {
-                    "pitch": 25,
-                    "yaw": 25,
-                    "type": "info",
-                    "text": "X 25 Y 25"
-                    
-                },
-                {
-                    "pitch": 50,
-                    "yaw": 50,
-                    "type": "info",
-                    "text": "X 50 Y 50",
-                    
-                },
-                {
                     "pitch": 100,
                     "yaw": 100,
                     "type": "info",
-                    "text": "X 100 Y 100"
-                  
-                },  
+                    "text": "X 200 Y 100",
+                },
                 {
-                    "pitch": 150,
-                    "yaw": 150,
+                    "pitch": 200,
+                    "yaw": 200,
                     "type": "info",
-                    "text": "X 150 Y 150"
-                  
+                    "text": "X 300 Y 100",
                 }
             ]
         }
