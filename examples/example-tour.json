@@ -53,18 +53,18 @@
                     "sceneId": "X0Y100"
                 },
                  {
-                    "pitch": 200,
+                    "pitch": 10,
                     "yaw": 100,
                     "type": "info",
-                    "text": "X 200 Y 100",
-                    "sceneId": "X200Y100"
+                    "text": "X 10 Y 100",
+                    "sceneId": "X10Y100"
                 },
                 {
-                    "pitch": 300,
+                    "pitch": 20,
                     "yaw": 100,
                     "type": "info",
-                    "text": "X 300 Y 100",
-                    "sceneId": "X300Y100"
+                    "text": "X 20 100",
+                    "sceneId": "X20Y100"
                 }
                 
             ]
