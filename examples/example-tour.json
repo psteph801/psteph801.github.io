@@ -47,9 +47,9 @@
             "hotSpots": [
                 {
                     "pitch": 0,
-                    "yaw": 0,
+                    "yaw": -150,
                     "type": "scene",
-                    "text": "1.X0 Y0",
+                    "text": "1.X0 Y-150",
                     "sceneId": "pondCube"
                 },
                 {
@@ -102,9 +102,9 @@
                 },
                 {
                     "pitch":0,
-                    "yaw": 300,
+                    "yaw": 0,
                     "type": "info",
-                    "text": "9.X0 Y300"
+                    "text": "10.X0 Y0"
                 }
 
             ]
