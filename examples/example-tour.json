@@ -47,22 +47,22 @@
             "hotSpots": [
                 {
                     "pitch": 0,
-                    "yaw": -150,
+                    "yaw": -199,
                     "type": "scene",
-                    "text": "1.X0 Y-150",
+                    "text": "1.X0 Y-199",
                     "sceneId": "pondCube"
                 },
                 {
-                    "pitch": 25,
-                    "yaw": 50,
+                    "pitch": 0,
+                    "yaw": -150,
                     "type": "info",
-                    "text": "2.X25 Y50"
+                    "text": "2.X0 Y-150"
                 },
                 {
                     "pitch":0,
-                    "yaw": 50,
+                    "yaw": -100,
                     "type": "info",
-                    "text": "3.X0 Y50"
+                    "text": "3.X0 Y-100"
                 },
                 {
                     "pitch":0,
@@ -72,39 +72,33 @@
                 },
                 {
                     "pitch":0,
-                    "yaw": 100,
-                    "type": "info",
-                    "text": "5.X0 Y100"
-                },
-                {
-                    "pitch":50,
-                    "yaw": 50,
-                    "type": "info",
-                    "text": "6.X50 Y50"
-                },
-                {
-                    "pitch":25,
                     "yaw": 0,
                     "type": "info",
-                    "text": "7.X25 Y0"
-                },
-                {
-                    "pitch":50,
-                    "yaw": 0,
-                    "type": "info",
-                    "text": "8.X50 Y0"
-                },
-                {
-                    "pitch":-25,
-                    "yaw": 0,
-                    "type": "info",
-                    "text": "9.X-25 Y0"
+                    "text": "5.X0 Y0"
                 },
                 {
                     "pitch":0,
-                    "yaw": 0,
+                    "yaw": 50,
                     "type": "info",
-                    "text": "10.X0 Y0"
+                    "text": "6.X0 Y50"
+                },
+                {
+                    "pitch":0,
+                    "yaw": 100,
+                    "type": "info",
+                    "text": "7.X0 Y100"
+                },
+                {
+                    "pitch":0,
+                    "yaw": 150,
+                    "type": "info",
+                    "text": "8.X0 Y150"
+                },
+                {
+                    "pitch":0,
+                    "yaw": 199,
+                    "type": "info",
+                    "text": "9.X0 Y199"
                 }
 
             ]
