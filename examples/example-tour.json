@@ -47,25 +47,66 @@
             "hotSpots": [
                 {
                     "pitch": 0,
-                    "yaw": 100,
+                    "yaw": 0,
                     "type": "info",
-                    "text": "X 0 Y 100",
-                    "sceneId": "X0Y100"
+                    "text": "X 0 Y 0",
+                    
                 },
                  {
-                    "pitch": 10,
-                    "yaw": 100,
+                    "pitch": 25,
+                    "yaw": 25,
                     "type": "info",
-                    "text": "X 10 Y 100",
-                    "sceneId": "X10Y100"
+                    "text": "X 25 Y 25",
+                    
                 },
                 {
-                    "pitch": 20,
+                    "pitch": 50,
+                    "yaw": 50,
+                    "type": "info",
+                    "text": "X 50 Y 50",
+                    "sceneId": "pondCube"
+                },
+                {
+                    "pitch": 100,
                     "yaw": 100,
                     "type": "info",
-                    "text": "X 20 100",
-                    "sceneId": "X20Y100"
-                }
+                    "text": "X 100 Y 100",
+                  
+                },  {
+                    "pitch": 150,
+                    "yaw": 150,
+                    "type": "info",
+                    "text": "X 150 Y 150",
+                  
+                },
+                 {
+                    "pitch": -25,
+                    "yaw": -25,
+                    "type": "info",
+                    "text": "X 25 Y 25",
+                    
+                },
+                {
+                    "pitch": -50,
+                    "yaw": -50,
+                    "type": "info",
+                    "text": "X 50 Y 50",
+                    "sceneId": "pondCube"
+                },
+                {
+                    "pitch": -100,
+                    "yaw": -100,
+                    "type": "info",
+                    "text": "X -100 Y -100",
+                  
+                }, 
+                {
+                    "pitch": -150,
+                    "yaw": -150,
+                    "type": "info",
+                    "text": "X -150 Y -150",
+                  
+                },
                 
             ]
         }
