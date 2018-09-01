@@ -21,7 +21,7 @@
                 {
                     "pitch": -12,
                     "yaw": 170,
-                    "type": "info",
+                    "type": "text",
                     "text": "This is Jordan Pond, located in Acadia National Park."
                 },
                 {
@@ -49,218 +49,219 @@
                     "pitch": 0,
                     "yaw": -175,
                     "type": "scene",
-                    "text": "1.X0 Y-175",
+                    "text": "X:-175 Y:0",
                     "sceneId": "pondCube"
                 },
                 {
                     "pitch": 0,
                     "yaw": -150,
                     "type": "info",
-                    "text": "2.X0 Y-150"
+                    "text": "X:-150 Y:0"
                 },
                 {
                     "pitch":0,
                     "yaw": -100,
                     "type": "info",
-                    "text": "3.X0 Y-100"
+                    "text": "X:-100 Y:0"
                 },
                 {
                     "pitch":0,
                     "yaw": -50,
                     "type": "info",
-                    "text": "4.X0 Y-50"
+                    "text": "X:-50 Y:0"
                 },
                 {
                     "pitch":0,
                     "yaw": 0,
                     "type": "info",
-                    "text": "5.X0 Y0"
+                    "text": "X:0 Y:0"
                 },
                 {
                     "pitch":0,
                     "yaw": 50,
                     "type": "info",
-                    "text": "6.X0 Y50"
+                    "text": "X:50 Y:0"
                 },
                 {
                     "pitch":0,
                     "yaw": 100,
                     "type": "info",
-                    "text": "7.X0 Y100"
+                    "text": "X:100 Y:0"
                 },
                 {
                     "pitch":0,
                     "yaw": 150,
                     "type": "info",
-                    "text": "8.X0 Y150"
+                    "text": "X:150 Y:0"
                 },
                 {
                     "pitch":0,
                     "yaw": 175,
                     "type": "info",
-                    "text": "9.X0 Y175"
+                    "text": "X:175 Y:0"
                 },{
                     "pitch": 25,
                     "yaw": -175,
                     "type": "scene",
-                    "text": "10.X25 Y-175",
+                    "text": "X:-175 Y:25",
                     "sceneId": "pondCube"
                 },
                 {
                     "pitch": 25,
                     "yaw": -150,
                     "type": "info",
-                    "text": "2.X25 Y-150"
+                    "text": "X:-150 Y:25"
                 },
                 {
                     "pitch":25,
                     "yaw": -100,
                     "type": "info",
-                    "text": "3.X25 Y-100"
+                    "text": "X:-100 Y:25"
                 },
                 {
                     "pitch":25,
                     "yaw": -50,
                     "type": "info",
-                    "text": "4.X25 Y-50"
+                    "text": "X:-50 Y:25"
                 },
                 {
                     "pitch":25,
                     "yaw": 0,
                     "type": "info",
-                    "text": "5.X25 Y0"
+                    "text": "X:0 Y:25"
                 },
                 {
                     "pitch":25,
                     "yaw": 50,
                     "type": "info",
-                    "text": "6.X25 Y50"
+                    "text": "X:50 Y:25"
                 },
                 {
                     "pitch":25,
                     "yaw": 100,
                     "type": "info",
-                    "text": "7.X25 Y100"
+                    "text": "X:100 Y:25"
                 },
                 {
                     "pitch":25,
                     "yaw": 150,
                     "type": "info",
-                    "text": "8.X25 Y150"
+                    "text": "X:150 Y:25"
                 },
                 {
                     "pitch":25,
                     "yaw": 175,
                     "type": "info",
-                    "text": "9.X25 Y175"
-                },                {
+                    "text": "X:175 Y:25"
+                },                
+                {
                     "pitch": 0,
                     "yaw": -175,
                     "type": "scene",
-                    "text": "20.X0 Y-175",
+                    "text": "X:-175 Y:0",
                     "sceneId": "pondCube"
                 },
                 {
                     "pitch": 50,
                     "yaw": -150,
                     "type": "info",
-                    "text": "2.X50 Y-150"
+                    "text": "X:-150 Y:50"
                 },
                 {
                     "pitch":50,
                     "yaw": -100,
                     "type": "info",
-                    "text": "3.X50 Y-100"
+                    "text":  "X:-100 Y:50"
                 },
                 {
                     "pitch":50,
                     "yaw": -50,
                     "type": "info",
-                    "text": "4.X50 Y-50"
+                    "text": "X:-50 Y:50"
                 },
                 {
                     "pitch":50,
                     "yaw": 0,
                     "type": "info",
-                    "text": "5.X50 Y0"
+                    "text": "X:0 Y:50"
                 },
                 {
                     "pitch":50,
                     "yaw": 50,
                     "type": "info",
-                    "text": "6.X50 Y50"
+                    "text": "X:50 Y:50"
                 },
                 {
                     "pitch":50,
                     "yaw": 100,
                     "type": "info",
-                    "text": "7.X50 Y100"
+                    "text": "X:100 Y:50"
                 },
                 {
                     "pitch":50,
                     "yaw": 150,
                     "type": "info",
-                    "text": "8.X50 Y150"
+                    "text": "X:150 Y:50"
                 },
                 {
                     "pitch":50,
                     "yaw": 175,
                     "type": "info",
-                    "text": "9.X50 Y175"
+                    "text": "X:175 Y:175"
                 },{
                     "pitch": -25,
                     "yaw": -175,
                     "type": "scene",
-                    "text": "30.X25 Y-175",
+                    "text": "X-175 X-25",
                     "sceneId": "pondCube"
                 },
                 {
                     "pitch": -25,
                     "yaw": -150,
                     "type": "info",
-                    "text": "2.X-25 Y-150"
+                    "text": "X:-150 Y-25"
                 },
                 {
                     "pitch":-25,
                     "yaw": -100,
                     "type": "info",
-                    "text": "3.X-25 Y-100"
+                    "text": "X:-100 Y:-25"
                 },
                 {
                     "pitch":-25,
                     "yaw": -50,
                     "type": "info",
-                    "text": "4.X-25 Y-50"
+                    "text": "X:-50 Y:-25"
                 },
                 {
                     "pitch":-25,
                     "yaw": 0,
                     "type": "info",
-                    "text": "5.X-25 Y0"
+                    "text": "X:0 Y:-25"
                 },
                 {
                     "pitch":-25,
                     "yaw": 50,
                     "type": "info",
-                    "text": "6.X-25 Y50"
+                    "text": "X:50 Y:-25"
                 },
                 {
                     "pitch":-25,
                     "yaw": 100,
                     "type": "info",
-                    "text": "7.X-25 Y100"
+                    "text": "X:100 Y:25"
                 },
                 {
                     "pitch":-25,
                     "yaw": 150,
                     "type": "info",
-                    "text": "8.X-25 Y150"
+                    "text": "X:150 Y:-25"
                 },
                 {
                     "pitch":-25,
                     "yaw": 175,
                     "type": "info",
-                    "text": "9.X-25 Y175"
+                    "text": "X:175 Y:-25"
                 }
             ]
         }
