@@ -722,11 +722,17 @@ function onDocumentMouseDown(event) {
 function onDocumentDoubleClick(event) {
     if (config.minHfov === config.hfov) {
         _this.setHfov(origHfov, 1000);
-        alert('HI!');
+        var x = event.clientX;     // Get the horizontal coordinate
+        var y = event.clientY;     // Get the vertical coordinate
+        var coor = "X coords: " + x + ", Y coords: " + y;
+        alert(coor);
     } else {
         var coords = mouseEventToCoords(event);
         _this.lookAt(coords[0], coords[1], config.minHfov, 1000);
-        alert('BYE!');
+        var x = event.clientX;     // Get the horizontal coordinate
+        var y = event.clientY;     // Get the vertical coordinate
+        var coor = "X coords: " + x + ", Y coords: " + y;
+        alert(coor);
     }
 }
 
