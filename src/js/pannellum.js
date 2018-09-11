@@ -722,9 +722,11 @@ function onDocumentMouseDown(event) {
 function onDocumentDoubleClick(event) {
     if (config.minHfov === config.hfov) {
         _this.setHfov(origHfov, 1000);
+        alert('HI!');
     } else {
         var coords = mouseEventToCoords(event);
         _this.lookAt(coords[0], coords[1], config.minHfov, 1000);
+        alert('BYE!');
     }
 }
 
