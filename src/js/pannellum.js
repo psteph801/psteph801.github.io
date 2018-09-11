@@ -721,9 +721,11 @@ function onDocumentMouseDown(event) {
  */
 function onDocumentDoubleClick(event) {
     if (config.minHfov === config.hfov) {
+        var coords = mouseEventToCoords(event);
         alert('Pitch: ' + coords[0] + ', Yaw: ' + coords[1] + ', Center Pitch: ' +
             config.pitch + ', Center Yaw: ' + config.yaw + ', HFOV: ' + config.hfov);
     } else {
+        var coords = mouseEventToCoords(event);
         alert('Pitch: ' + coords[0] + ', Yaw: ' + coords[1] + ', Center Pitch: ' +
             config.pitch + ', Center Yaw: ' + config.yaw + ', HFOV: ' + config.hfov);
     }
