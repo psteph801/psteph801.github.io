@@ -721,12 +721,11 @@ function onDocumentMouseDown(event) {
  */
 function onDocumentDoubleClick(event) {
     if (config.minHfov === config.hfov) {
-        var coor = "X coords: " + x + ", Y coords: " + y;
-        alert(coor);
+        alert('Pitch: ' + coords[0] + ', Yaw: ' + coords[1] + ', Center Pitch: ' +
+            config.pitch + ', Center Yaw: ' + config.yaw + ', HFOV: ' + config.hfov);
     } else {
-        var coords = mouseEventToCoords(event);
-        var coor = "X coords: " + pos.x + ", Y coords: " + pos.y;
-        alert(coor);
+        alert('Pitch: ' + coords[0] + ', Yaw: ' + coords[1] + ', Center Pitch: ' +
+            config.pitch + ', Center Yaw: ' + config.yaw + ', HFOV: ' + config.hfov);
     }
 }
 
